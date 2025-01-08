@@ -19,21 +19,9 @@
       "modelo": "modelo3"
     },
     {
-      "id": "278d",
-      "conteudo": "gustavo eh gay",
-      "autoria": "ana faro",
-      "modelo": "modelo2"
-    },
-    {
-      "id": "d681",
-      "conteudo": "o arthur está chave",
-      "autoria": "o milior",
-      "modelo": "modelo2"
-    },
-    {
-      "id": "44cd",
-      "conteudo": "aaaaa",
-      "autoria": "art",
+      "id": 4,
+      "conteudo": "arthur",
+      "autoria": "chave",
       "modelo": "modelo1"
     }
   ]
