@@ -1,5 +1,5 @@
 {
-  "pensamentos":[
+  "pensamentos": [
     {
       "id": 1,
       "conteudo": "que bom que vc veio",
@@ -17,6 +17,24 @@
       "conteudo": "Angular é o melhor",
       "autoria": "Arthur",
       "modelo": "modelo3"
+    },
+    {
+      "id": "278d",
+      "conteudo": "gustavo eh gay",
+      "autoria": "ana faro",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "d681",
+      "conteudo": "o arthur está chave",
+      "autoria": "o milior",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "44cd",
+      "conteudo": "aaaaa",
+      "autoria": "art",
+      "modelo": "modelo1"
     }
   ]
 }
